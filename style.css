@@ -1,0 +1,72 @@
+.bawah {
+    background-color: #AA96DA;
+    text-align: center;
+}
+
+.placeholder {
+    background-color: #FFFFD2;
+}
+
+.isi p {
+    text-align: justify;
+    margin: 20px;
+    color: black;
+}
+
+.kiri {
+    background-color: #C5FAD5;
+    text-align: center;
+}
+
+.kiri img, video {
+    width: 200px;
+}
+
+.foto img {
+    width: 225px;
+}
+
+.judul h1 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.kontak {
+    text-align: center;
+}
+
+.column{
+    margin-left: 10px;
+}
+
+.gp1 {
+    width: 50%;
+    float: left;
+    padding : 0px;
+}
+
+.gp2 {
+    width: 50%;
+    float: right;
+}
+
+.fasilitas {
+    font-size: 16px;
+}
+
+.fasilitas ul {
+    font-weight: bold;
+}
+
+.fasilitas ul li {
+    font-weight: normal;
+}
+
+.heading {
+    background-color: green;
+}
+
+.heading img {
+    width: 100%
+}
